@@ -18,7 +18,9 @@ explanation of inception v3
 visit this youtube channel 
 https://www.youtube.com/watch?v=ekixid21Q5U&t=618s
 
-
+# greedy_search
+greedy search use conditional probability P(X|Y) WHERE x IS INPUT WORDS OF SENTENCE Y IS OUTPUT WORD OF SENTENCE IT CHECKS EVERY WORDS PROBABILITY ARRANGAES IN SENETENCES
+SO THIS SEARCH METHOD IS NOT OPTIMAL METHOD IT IS GOOD TO USE LESS SENETENCES
 
  #output of image captioning
  
