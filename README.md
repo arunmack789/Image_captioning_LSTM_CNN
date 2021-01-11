@@ -1,7 +1,7 @@
 # Image_captioning_LSTM_CNN
 Deep learning projects for IMAGE_captioning on fashion dataset
 
-#Technolofy used in project
+#Technology used in project
 CONVENTIONAL NEUTRAL NETWORKS(CNN)
 LONG SHORT TERM MEMORY (LSTM)
 PANDAS
