@@ -13,3 +13,8 @@ GOOGLE_COLAB
 ![ ](1280px-LSTM_cell.svg.png)
  #output of image captioning
  ![](output_captioning.jpg)
+ 
+ #images
+https://drive.google.com/file/d/1Sif5TSVM-g7cLfHn156YaxixfpvZbiGl/view
+ #textdata
+https://drive.google.com/file/d/1Xe0q3oM_OGZoZ8J0gRKgKiJEulj-6a-G/view
