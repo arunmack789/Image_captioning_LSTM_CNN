@@ -13,6 +13,8 @@ GOOGLE_COLAB
 ![ ](1280px-LSTM_cell.svg.png)
  #output of image captioning
  ![](output_captioning.jpg)
+ To understand basic lstm and gru 
+ visit this link https://colah.github.io/posts/2015-08-Understanding-LSTMs/
  
  #images
 https://drive.google.com/file/d/1Sif5TSVM-g7cLfHn156YaxixfpvZbiGl/view
