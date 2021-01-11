@@ -12,10 +12,13 @@ GOOGLE_COLAB
  
 ![ ](1280px-LSTM_cell.svg.png)
 #I used pretrained cnn model  inception V3
-Inceptionv3 is a convolutional neural network for assisting in image analysis and object detection, and got its start as a module for Googlenet. It is the third edition of Google's Inception Convolutional Neural Network, originally introduced during the ImageNet Recognition Challenge. Just as ImageNet can be thought of as a database of classified visual objects, Inception helps classification of objects in the world of computer vision. One such use is in life sciences, where it aids in the research of Leukemia. The original name (Inception) was codenamed this way after a popular "'we need to go deeper' internet meme" went viral, quoting a phrase from Inception film of Christopher Nolan
-
+Inception-v3 is a convolutional neural network architecture from the Inception family that makes several improvements including using Label Smoothing, Factorized 7 x 7 convolutions, and the use of an auxiliary classifer to propagate label information lower down the network (along with the use of batch normalization for layers in the sidehead)
 #ARCHITECTURE OF INCEPTION V3 MODULE:
-![](imagenet_inception_module.png)
+explanation of inception v3 
+visit this youtube channel 
+https://www.youtube.com/watch?v=ekixid21Q5U&t=618s
+
+
 
  #output of image captioning
  
