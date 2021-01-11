@@ -1,4 +1,4 @@
-# Image_captioning_LSTM_CNN
+# Image_captioning_LSTM_CNN With Greedy_Search
 Deep learning projects for IMAGE_captioning on fashion dataset
 
 #Technology used in project
